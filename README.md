@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1>Hi there! I'm Ivan</h1>
   <h3>Flutter developer from Yoshkar-Ola</h3>
-  <a href="https://t.me/ubeytemenya1" widtg=40><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png"/></a>
+  <a href="https://t.me/ubeytemenya1" width=40><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png"/></a>
 </div>
 
 
