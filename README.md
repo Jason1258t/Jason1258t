@@ -12,9 +12,6 @@
           
 
           
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jason1258t&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jason1258t&theme=default&utcOffset=8)
           
           
 
