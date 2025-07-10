@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <h1>Ivan</h1>
-  <h2>Flutter developer</h2>
+  #Ivan
+  ##Flutter developer
   <a href="https://t.me/ubeytemenya1" ><img width=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" alt="Telegram" /></a>
 </div>
 
