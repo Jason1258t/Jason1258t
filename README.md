@@ -15,7 +15,7 @@
 - **Веб**: React (Junior)
 - **Бэкенд**: Nest.js, Django
 - **Дополнительно**: Python, Git
-- Понимаю **архитектурные подходы**: Clean Architecture, MVVM, BLoC, Provider, Riverpod
+- Понимаю **архитектурные подходы**: Clean Architecture, MVVM, FSD, BLoC, Provider, Riverpod
 - Работаю с **различными типами БД**:
   - Реляционные: PostgreSQL, MySQL, SQLite
   - NoSQL: Firebase Firestore, MongoDB
