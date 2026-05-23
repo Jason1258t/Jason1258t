@@ -1,14 +1,11 @@
 <div align="center">
+  <h1>Hi, I'm Ivan 👋</h1>
+  <p><strong>Young Middle Developer</strong></p>
+  
   <a href="https://t.me/ubeytemenya1">
     <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" alt="Telegram"/>
   </a>
 </div>
-
-<h1 align="center">Привет, я Иван 👋</h1>
-
-<p align="center">
-  <strong>Middle Flutter</strong> • <strong>Junior React</strong> разработчик
-</p>
 
 ---
 
@@ -16,33 +13,41 @@
 
 - **Основной стек**: Flutter + Dart (Middle)
 - **Веб**: React (Junior)
+- **Бэкенд**: Nest.js, Django
 - **Дополнительно**: Python, Git
-- Хорошо понимаю **архитектурные подходы** (Clean Architecture, MVVM, BLoC, Provider, Riverpod)
-- Могу при необходимости делать лёгкие бэкенд-приложения (FastAPI / Flask / Firebase)
-- Люблю писать чистый, поддерживаемый код и продумывать архитектуру приложения заранее
+- Понимаю **архитектурные подходы**: Clean Architecture, MVVM, BLoC, Provider, Riverpod
+- Работаю с **различными типами БД**:
+  - Реляционные: PostgreSQL, MySQL, SQLite
+  - NoSQL: Firebase Firestore, MongoDB
+  - Облачные и самописные инстансы
+- Пишу чистый, поддерживаемый код с акцентом на продуманную архитектуру
 
 ---
 
-### Технологии и инструменты
+### Технологии
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>&nbsp;
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>&nbsp;
+</div>
 
 ---
 
 ### Что ищу
 
-Сейчас открыт для интересных предложений по **Flutter**-проектам (Middle/Middle+), а также готов расти в React и fullstack-направлении.
+Открыт для предложений по **Flutter**-проектам (Middle / Middle+), а также готов развиваться в направлении React и fullstack.
 
 ---
 
-### Связаться со мной
+### Контакты
 
 - Telegram: [@ubeytemenya1](https://t.me/ubeytemenya1)
 
 ---
 
-*Открыт к новым знакомствам и интересным проектам!*
+<p align="center"><em>Открыт к новым знакомствам и интересным проектам!</em></p>
