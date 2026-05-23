@@ -3,7 +3,7 @@
   <p><strong>Young Middle Developer</strong></p>
   
   <a href="https://t.me/ubeytemenya1">
-    <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" alt="Telegram"/>
+    <img src="https://cdn.simpleicons.org/telegram" width="40" height="40" alt="Telegram"/>
   </a>
 </div>
 
